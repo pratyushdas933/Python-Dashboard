@@ -1,6 +1,10 @@
 Streamlit Superstore Sales Dashboard – Interpretation
 
-<img width="1919" height="955" alt="Screenshot 2025-12-15 094039" src="https://github.com/user-attachments/assets/463d4967-1238-4826-9509-6ec2235fec20" />
+<img width="1543" height="901" alt="Screenshot 2025-12-15 094708" src="https://github.com/user-attachments/assets/c9fa8f73-d50a-4a20-8daf-014683888b10" />
+<img width="1553" height="932" alt="Screenshot 2025-12-15 094722" src="https://github.com/user-attachments/assets/986c80be-5f4d-4b49-9521-eecc6dd41783" />
+<img width="1576" height="955" alt="Screenshot 2025-12-15 094735" src="https://github.com/user-attachments/assets/c3fd7cd2-4b36-4633-9a35-3d2049449532" />
+<img width="1475" height="709" alt="Screenshot 2025-12-15 094747" src="https://github.com/user-attachments/assets/9ac3fe54-f36e-4138-83e9-48bdb651db70" />
+<img width="1527" height="913" alt="Screenshot 2025-12-15 094800" src="https://github.com/user-attachments/assets/dac3a5b6-bc21-46ec-8202-a222c90eac22" />
 
 
 This Streamlit application is an interactive Exploratory Data Analysis (EDA) dashboard built using the Superstore sales dataset. The dashboard allows users to dynamically analyze sales performance across time, geography, product categories, and customer segments.
